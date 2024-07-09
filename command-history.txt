@@ -1,0 +1,60 @@
+    1  sudo su
+    2  ls
+    3  mkdir
+    4  mkdir folder1
+    5  ls
+    6  cd folder1/
+    7  ls
+    8  nano biodata.txt
+    9  ls
+   10  cat biodata.txt
+   11  cd ..
+   12  git --version
+   13  mkdir latihan-git
+   14  ls
+   15  cd latihan-git
+   16  sudo install gh
+   17  sudo apt install gh
+   18  gh --version
+   19  sudo apt update
+   20  sudo apt install chromium-browser
+   21  sudo apt gdebi-core wget
+   22  sudo apt install gdebi-core wget
+   23  wget https://dl.google.com/linux/direct/google-chrome-table_current_amd64.deb
+   24  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   25  sudo gdebi google-chrome-stable_current_amd64.deb
+   26  google-chrome
+   27  ls
+   28  gh auth login
+   29  gh auth status
+   30  sudo apt install gh
+   31  gh auth login
+   32  gh status
+   33  gh auth status
+   34  gh auth login
+   35  ls
+   36  ls
+   37  cd
+   38  ls
+   39  cd latihan-git/
+   40  ls
+   41  google-chrome
+   42  wsl
+   43  sudo apt update
+   44  sudo apt install git
+   45  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   46  nvm --v
+   47  nvm install v14.15.4
+   48  node -v
+   49  https://github.com/misterpotabi/projek-uas-komdat
+   50  git clone https://github.com/misterpotabi/prjek-uas-komdat uas-komdat-24
+   51  ls
+   52  clear
+   53  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   54  ls
+   55  cd uas-komdat-24/
+   56  ls
+   57  code .
+   58  npm install
+   59  npm run start
+   60  history > command-history.txt
